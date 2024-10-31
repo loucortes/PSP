@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "01_Tarea/src",
+        "02_Tarea/src/SumatorioConHilos_synhronizado",
+        "03_Tarea/src/Productor_Consumidor",
+        "03_Tarea/src/Carrera_Caballos",
+        "03_Tarea/src/ArgumentoMayor_AtomicInteger"
+    ]
+}
